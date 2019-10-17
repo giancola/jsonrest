@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      ""title"": "hello"
+      "title": "hello"
     }
   ],
   "gets": [
@@ -28,7 +28,7 @@
           "color": "#C13C37"
         }
       ],
-      Android_OS: [
+      "Android_OS": [
         {
           "title": "Android 10",
           "value": 10,
@@ -70,7 +70,7 @@
           "color": "#C13C37"
         }
       ],
-      IOS_OS: [
+      "IOS_OS": [
         {
           "title": "Android 10",
           "value": 10,
@@ -112,7 +112,7 @@
           "color": "#C13C37"
         }
       ],
-      Android_Device: [
+      "Android_Device": [
         {
           "title": "Android 10",
           "value": 10,
@@ -154,7 +154,7 @@
           "color": "#C13C37"
         }
       ],
-      IOS_Device: [
+      "IOS_Device": [
         {
           "title": "Android 10",
           "value": 10,
