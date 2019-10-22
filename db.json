@@ -197,152 +197,152 @@
         }
       ]
     },
-	    {
+    {
       "id": 3,
       "Overall": [
         {
           "title": "Android",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "IOS",
-          "value": 30,
+          "value": 30
         }
       ],
       "Android_OS": [
         {
           "title": "Android 10",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "Android 9",
-          "value": 30,
+          "value": 30
         },
         {
           "title": "Android 8",
-          "value": 5,
+          "value": 5
         },
         {
           "title": "Android 7",
-          "value": 15,
+          "value": 15
         },
         {
           "title": "Android 6",
-          "value": 7,
+          "value": 7
         },
         {
           "title": "Android 5",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "Android 4.4",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "Android Other",
-          "value": 20,
+          "value": 20
         }
       ],
       "IOS_OS": [
         {
           "title": "Android 10",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "Android 9",
-          "value": 30,
+          "value": 30
         },
         {
           "title": "Android 8",
-          "value": 5,
+          "value": 5
         },
         {
           "title": "Android 7",
-          "value": 15,
+          "value": 15
         },
         {
           "title": "Android 6",
-          "value": 7,
+          "value": 7
         },
         {
           "title": "Android 5",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "Android 4.4",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "Android Other",
-          "value": 20,
+          "value": 20
         }
       ],
       "Android_Device": [
         {
           "title": "Android 10",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "Android 9",
-          "value": 30,
+          "value": 30
         },
         {
           "title": "Android 8",
-          "value": 5,
+          "value": 5
         },
         {
           "title": "Android 7",
-          "value": 15,
+          "value": 15
         },
         {
           "title": "Android 6",
-          "value": 7,
+          "value": 7
         },
         {
           "title": "Android 5",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "Android 4.4",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "Android Other",
-          "value": 20,
+          "value": 20
         }
       ],
       "IOS_Device": [
         {
           "title": "Android 10",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "Android 9",
-          "value": 30,
+          "value": 30
         },
         {
           "title": "Android 8",
-          "value": 5,
+          "value": 5
         },
         {
           "title": "Android 7",
-          "value": 15,
+          "value": 15
         },
         {
           "title": "Android 6",
-          "value": 7,
+          "value": 7
         },
         {
           "title": "Android 5",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "Android 4.4",
-          "value": 10,
+          "value": 10
         },
         {
           "title": "Android Other",
-          "value": 20,
+          "value": 20
         }
       ]
     }
