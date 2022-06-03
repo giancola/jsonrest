@@ -345,7 +345,16 @@
           "value": 20
         }
       ]
-    }
+    },
+    {
+      "id": 4,
+      "techName": "Travis Collins",
+      "techID": "5646547",
+      "office": "Northeast Region Concord",
+      "vanNo": "257",
+      "manager": "Shirley Adams"
+    },
+
   ],
   "profile": {
     "name": "typicode"
