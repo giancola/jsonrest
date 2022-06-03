@@ -17,184 +17,14 @@
     {
       "id": 2,
       "Overall": [
-        {
-          "title": "Android",
-          "value": 10,
-          "color": "#E38627"
-        },
-        {
-          "title": "IOS",
-          "value": 30,
-          "color": "#C13C37"
-        }
       ],
       "Android_OS": [
-        {
-          "title": "Android 10",
-          "value": 10,
-          "color": "#E38627"
-        },
-        {
-          "title": "Android 9",
-          "value": 30,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 8",
-          "value": 5,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 7",
-          "value": 15,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 6",
-          "value": 7,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 5",
-          "value": 10,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 4.4",
-          "value": 10,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android Other",
-          "value": 20,
-          "color": "#C13C37"
-        }
       ],
       "IOS_OS": [
-        {
-          "title": "Android 10",
-          "value": 10,
-          "color": "#E38627"
-        },
-        {
-          "title": "Android 9",
-          "value": 30,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 8",
-          "value": 5,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 7",
-          "value": 15,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 6",
-          "value": 7,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 5",
-          "value": 10,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 4.4",
-          "value": 10,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android Other",
-          "value": 20,
-          "color": "#C13C37"
-        }
       ],
       "Android_Device": [
-        {
-          "title": "Android 10",
-          "value": 10,
-          "color": "#E38627"
-        },
-        {
-          "title": "Android 9",
-          "value": 30,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 8",
-          "value": 5,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 7",
-          "value": 15,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 6",
-          "value": 7,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 5",
-          "value": 10,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 4.4",
-          "value": 10,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android Other",
-          "value": 20,
-          "color": "#C13C37"
-        }
       ],
       "IOS_Device": [
-        {
-          "title": "Android 10",
-          "value": 10,
-          "color": "#E38627"
-        },
-        {
-          "title": "Android 9",
-          "value": 30,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 8",
-          "value": 5,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 7",
-          "value": 15,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 6",
-          "value": 7,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 5",
-          "value": 10,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android 4.4",
-          "value": 10,
-          "color": "#C13C37"
-        },
-        {
-          "title": "Android Other",
-          "value": 20,
-          "color": "#C13C37"
-        }
       ]
     },
     {
@@ -345,16 +175,7 @@
           "value": 20
         }
       ]
-    },
-    {
-      "id": 4,
-      "techName": "Travis Collins",
-      "techID": "5646547",
-      "office": "Northeast Region Concord",
-      "vanNo": "257",
-      "manager": "Shirley Adams"
-    },
-
+    }
   ],
   "profile": {
     "name": "typicode"
