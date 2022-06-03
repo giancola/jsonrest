@@ -345,6 +345,21 @@
           "value": 20
         }
       ]
+    },
+    {
+      "id": 'brand01',
+      [
+        {
+            "id": 2271,
+            "name": "ADK Kafka Brand Test",
+            "description": "ADK Kafka Brand Test"
+        },
+        {
+            "id": 79,
+            "name": "Big Co Demo Brand 1",
+            "description": "Brand test 1"
+        }
+      ]
     }
   ],
   "profile": {
